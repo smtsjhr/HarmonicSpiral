@@ -1,5 +1,5 @@
 # HarmonicSpiral
 
-view at [https://smtsjhr.com/HarmonicSpiral](https://smtsjhr.com/HarmicSpiral)
+view at [https://smtsjhr.com/HarmonicSpiral](https://smtsjhr.com/HarmonicSpiral)
 
-![animated gif](https://github.com/smtsjhr/HarmicSpiral/blob/master/HarmicSpiral_300.gif)
+![animated gif](https://github.com/smtsjhr/HarmonicSpiral/blob/master/HarmonicSpiral_300.gif)
